@@ -1,0 +1,5 @@
+D:\프로젝트\VisualStudio\05\Calculator\bin\Debug\Calculator.exe.config
+D:\프로젝트\VisualStudio\05\Calculator\bin\Debug\Calculator.exe
+D:\프로젝트\VisualStudio\05\Calculator\bin\Debug\Calculator.pdb
+D:\프로젝트\VisualStudio\05\Calculator\obj\Debug\Calculator.exe
+D:\프로젝트\VisualStudio\05\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,6 @@
+D:\프로젝트\VisualStudio\10\LottoNumberGenerator\bin\Debug\LottoNumberGenerator.exe.config
+D:\프로젝트\VisualStudio\10\LottoNumberGenerator\bin\Debug\LottoNumberGenerator.exe
+D:\프로젝트\VisualStudio\10\LottoNumberGenerator\bin\Debug\LottoNumberGenerator.pdb
+D:\프로젝트\VisualStudio\10\LottoNumberGenerator\obj\Debug\LottoNumberGenerator.csprojAssemblyReference.cache
+D:\프로젝트\VisualStudio\10\LottoNumberGenerator\obj\Debug\LottoNumberGenerator.exe
+D:\프로젝트\VisualStudio\10\LottoNumberGenerator\obj\Debug\LottoNumberGenerator.pdb

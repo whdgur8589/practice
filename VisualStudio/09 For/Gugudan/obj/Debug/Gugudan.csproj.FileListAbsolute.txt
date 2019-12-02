@@ -1,0 +1,6 @@
+D:\프로젝트\VisualStudio\09 For\Gugudan\bin\Debug\Gugudan.exe.config
+D:\프로젝트\VisualStudio\09 For\Gugudan\bin\Debug\Gugudan.exe
+D:\프로젝트\VisualStudio\09 For\Gugudan\bin\Debug\Gugudan.pdb
+D:\프로젝트\VisualStudio\09 For\Gugudan\obj\Debug\Gugudan.csprojAssemblyReference.cache
+D:\프로젝트\VisualStudio\09 For\Gugudan\obj\Debug\Gugudan.exe
+D:\프로젝트\VisualStudio\09 For\Gugudan\obj\Debug\Gugudan.pdb

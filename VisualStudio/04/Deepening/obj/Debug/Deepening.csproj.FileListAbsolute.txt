@@ -1,0 +1,6 @@
+D:\프로젝트\VisualStudio\04\Deepening\bin\Debug\Deepening.exe.config
+D:\프로젝트\VisualStudio\04\Deepening\bin\Debug\Deepening.exe
+D:\프로젝트\VisualStudio\04\Deepening\bin\Debug\Deepening.pdb
+D:\프로젝트\VisualStudio\04\Deepening\obj\Debug\Deepening.csprojAssemblyReference.cache
+D:\프로젝트\VisualStudio\04\Deepening\obj\Debug\Deepening.exe
+D:\프로젝트\VisualStudio\04\Deepening\obj\Debug\Deepening.pdb

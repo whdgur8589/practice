@@ -1,0 +1,6 @@
+D:\프로젝트\VisualStudio\01\myFirstProgram\bin\Debug\myFirstProgram.exe.config
+D:\프로젝트\VisualStudio\01\myFirstProgram\bin\Debug\myFirstProgram.exe
+D:\프로젝트\VisualStudio\01\myFirstProgram\bin\Debug\myFirstProgram.pdb
+D:\프로젝트\VisualStudio\01\myFirstProgram\obj\Debug\myFirstProgram.csprojAssemblyReference.cache
+D:\프로젝트\VisualStudio\01\myFirstProgram\obj\Debug\myFirstProgram.exe
+D:\프로젝트\VisualStudio\01\myFirstProgram\obj\Debug\myFirstProgram.pdb

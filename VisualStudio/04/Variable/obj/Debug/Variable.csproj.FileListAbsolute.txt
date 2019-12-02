@@ -1,0 +1,6 @@
+D:\프로젝트\VisualStudio\04\Variable\bin\Debug\Variable.exe.config
+D:\프로젝트\VisualStudio\04\Variable\bin\Debug\Variable.exe
+D:\프로젝트\VisualStudio\04\Variable\bin\Debug\Variable.pdb
+D:\프로젝트\VisualStudio\04\Variable\obj\Debug\Variable.csprojAssemblyReference.cache
+D:\프로젝트\VisualStudio\04\Variable\obj\Debug\Variable.exe
+D:\프로젝트\VisualStudio\04\Variable\obj\Debug\Variable.pdb

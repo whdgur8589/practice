@@ -1,0 +1,11 @@
+D:\프로젝트\VisualStudio\02\ConsoleWrite\bin\Debug\netcoreapp3.0\ConsoleWrite.exe
+D:\프로젝트\VisualStudio\02\ConsoleWrite\bin\Debug\netcoreapp3.0\ConsoleWrite.deps.json
+D:\프로젝트\VisualStudio\02\ConsoleWrite\bin\Debug\netcoreapp3.0\ConsoleWrite.runtimeconfig.json
+D:\프로젝트\VisualStudio\02\ConsoleWrite\bin\Debug\netcoreapp3.0\ConsoleWrite.runtimeconfig.dev.json
+D:\프로젝트\VisualStudio\02\ConsoleWrite\bin\Debug\netcoreapp3.0\ConsoleWrite.dll
+D:\프로젝트\VisualStudio\02\ConsoleWrite\bin\Debug\netcoreapp3.0\ConsoleWrite.pdb
+D:\프로젝트\VisualStudio\02\ConsoleWrite\obj\Debug\netcoreapp3.0\ConsoleWrite.csprojAssemblyReference.cache
+D:\프로젝트\VisualStudio\02\ConsoleWrite\obj\Debug\netcoreapp3.0\ConsoleWrite.AssemblyInfoInputs.cache
+D:\프로젝트\VisualStudio\02\ConsoleWrite\obj\Debug\netcoreapp3.0\ConsoleWrite.AssemblyInfo.cs
+D:\프로젝트\VisualStudio\02\ConsoleWrite\obj\Debug\netcoreapp3.0\ConsoleWrite.dll
+D:\프로젝트\VisualStudio\02\ConsoleWrite\obj\Debug\netcoreapp3.0\ConsoleWrite.pdb

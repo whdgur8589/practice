@@ -1,0 +1,6 @@
+D:\프로젝트\VisualStudio\UltimateBaseball\bin\Debug\UltimateBaseball.exe.config
+D:\프로젝트\VisualStudio\UltimateBaseball\bin\Debug\UltimateBaseball.exe
+D:\프로젝트\VisualStudio\UltimateBaseball\bin\Debug\UltimateBaseball.pdb
+D:\프로젝트\VisualStudio\UltimateBaseball\obj\Debug\UltimateBaseball.csprojAssemblyReference.cache
+D:\프로젝트\VisualStudio\UltimateBaseball\obj\Debug\UltimateBaseball.exe
+D:\프로젝트\VisualStudio\UltimateBaseball\obj\Debug\UltimateBaseball.pdb

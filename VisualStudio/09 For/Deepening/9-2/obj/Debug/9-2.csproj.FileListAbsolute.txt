@@ -1,0 +1,6 @@
+D:\프로젝트\VisualStudio\09 For\Deepening\9-2\bin\Debug\9-2.exe.config
+D:\프로젝트\VisualStudio\09 For\Deepening\9-2\bin\Debug\9-2.exe
+D:\프로젝트\VisualStudio\09 For\Deepening\9-2\bin\Debug\9-2.pdb
+D:\프로젝트\VisualStudio\09 For\Deepening\9-2\obj\Debug\9-2.csprojAssemblyReference.cache
+D:\프로젝트\VisualStudio\09 For\Deepening\9-2\obj\Debug\9-2.exe
+D:\프로젝트\VisualStudio\09 For\Deepening\9-2\obj\Debug\9-2.pdb

@@ -1,0 +1,6 @@
+D:\프로젝트\VisualStudio\10\CollectingNum\bin\Debug\CollectingNum.exe.config
+D:\프로젝트\VisualStudio\10\CollectingNum\bin\Debug\CollectingNum.exe
+D:\프로젝트\VisualStudio\10\CollectingNum\bin\Debug\CollectingNum.pdb
+D:\프로젝트\VisualStudio\10\CollectingNum\obj\Debug\CollectingNum.csprojAssemblyReference.cache
+D:\프로젝트\VisualStudio\10\CollectingNum\obj\Debug\CollectingNum.exe
+D:\프로젝트\VisualStudio\10\CollectingNum\obj\Debug\CollectingNum.pdb
